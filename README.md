@@ -15,9 +15,6 @@
   <a href="https://linkedin.com/in/yakuphandevrez/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ffff" />
   </a>
-  <a href="https://github.com/yakuphandevrez">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ffff" />
-  </a>
   <a href="mailto:yakuphandevrez@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ffff" />
   </a>
