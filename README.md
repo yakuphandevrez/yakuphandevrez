@@ -102,13 +102,9 @@ Cross-Team Sync
 ## ▣ DEV SIGNAL
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yakuphandevrez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yakuphandevrez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=yakuphandevrez&theme=tokyonight&hide_border=true&background=000000" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yakuphandevrez&theme=tokyonight&hide_border=true&background=000000" />
-</p>
-
 ---
 
 ## ▣ SYSTEM PRINCIPLES
