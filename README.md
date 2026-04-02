@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00FFFF&center=true&vCenter=true&lines=Product+Engineer;B2B+Systems+Builder;SQL+Driven+Execution;Agile+Operator;MVP+Architect" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00FFFF&center=true&vCenter=true&lines=Product+Management+Engineer;Business+Analyst;B2B+Systems+Builder;Product+Owner;SQL+Driven+Execution;IT+Project+Manager;Agile+Operator;MVP+Architect;Product+Specialist" />
 </p>
 
 ---
